@@ -10,7 +10,7 @@ https://www.microsoft.com/en-ca/p/python-38/9mssztt1n39l?activetab=pivot:overvie
 
 https://github.com/UB-Mannheim/tesseract/wiki
 
-4. In command prompt run `pip install pytesseract`
+4. In command prompt, run `pip install pytesseract`
 
 ## Setup the Python program
 1. Change the *tesseract.exe* path
