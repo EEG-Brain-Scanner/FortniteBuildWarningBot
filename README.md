@@ -16,6 +16,6 @@ A Python OCR bot that warns you when you are running out of builds
 - Monitor must be 16:9
 
 ## Usage
-Double click the *Executable Code* file
-It will open in command prompt and beep to indicate it is running
-Close command prompt to stop the bot
+- Double click the *Executable Code* file
+- It will open in command prompt and beep to indicate it is running
+- Close command prompt to stop the bot
