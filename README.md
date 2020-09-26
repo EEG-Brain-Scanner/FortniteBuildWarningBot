@@ -1,9 +1,11 @@
 # FortniteBuildWarningBot
 A Python OCR bot that warns you when you are running out of builds
 ## Setup Windows 10
-1. Install Python 3.8 through the Microsoft Store https://www.microsoft.com/en-ca/p/python-38/9mssztt1n39l?activetab=pivot:overviewtab
+1. Install Python 3.8 through the Microsoft Store
+https://www.microsoft.com/en-ca/p/python-38/9mssztt1n39l?activetab=pivot:overviewtab
 2. In command prompt, run `pip install Pillow`
-3. Download *tesseract-ocr-w64-setup-v5.0.0-alpha.20200328.exe (64 bit)* and install, selecting *just for me*, and using all other default installer settings https://github.com/UB-Mannheim/tesseract/wiki
+3. Download *tesseract-ocr-w64-setup-v5.0.0-alpha.20200328.exe (64 bit)* and install, selecting *just for me*, and using all other default installer settings
+https://github.com/UB-Mannheim/tesseract/wiki
 4. In command prompt run `pip install pytesseract`
 
 ## Setup the Python program
